@@ -1,7 +1,9 @@
 # api-feeds
 
 ### Executar a aplicação
-> criar banco feed e test
+> git clone https://github.com/Oseias447/api-feeds.git
+
+> cd api-feeds
 
 > yarn
 
