@@ -22,3 +22,13 @@ ___
 # Testes
 ___
 > yarn test
+
+# Rotas
+___
+> GET: /feeds {} - Lista todos os Feeds
+
+> POST: /feed { name(string), avatar(string), url_image(string) } - Cria novo Feed
+
+> PUT: /feed/:id { name(string), avatar(string), url_image(string) } - Altera Feed
+
+> DELETE: /feed/:id {} - Exclui Feed
